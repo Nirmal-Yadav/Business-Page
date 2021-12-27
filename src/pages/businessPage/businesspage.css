@@ -1,0 +1,94 @@
+.body-container{
+    /* border: 2px solid red; */
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    background-color:#155bd5 ;
+}
+.body-left-container{
+   
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.body-left-main{
+/* border: 2px solid orange; */
+height: 370px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+position: relative;
+top: 25px;
+}
+.body-right-container{
+  
+    width: 50vw;
+    display: flex;
+    align-items: center;
+}
+.girl-img1{
+    margin-top: 80px;
+    height: 500px;
+    width: 650px;
+    border-radius: 7px;
+}
+.body-left-content1{
+    /* border: 2px solid red; */
+    color: white;
+    font-size: 43px;
+    font-weight: bold;
+    width: 530px;
+   margin: none;
+}
+.body-left-content2{
+    /* border: 2px solid red; */
+    color: lightgrey;
+    margin-bottom :40px ;
+    font-weight: 400;
+    font-size: 18px;
+    width: 550px;
+    display: flex;
+    align-items: center;
+}
+.button-container{
+    /* border: 2px solid red; */
+    width: 410px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container2{
+    /* border: 2px solid blue; */
+    height: 120vh;
+    width: 100vw;
+    display: flex;
+    background-color: #fafafa;
+}
+.container2-left{
+    /* border: 2px solid green; */
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container2-right{
+    /* border: 2px solid green; */
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image2{
+   position: relative;
+   height: 600px;
+   width: 500px;
+    
+}
+.empty1{
+    height: 15vh;
+}

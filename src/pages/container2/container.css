@@ -1,0 +1,33 @@
+.container2-right-inner{
+/* border: 2px solid green; */
+height: 500px;
+width: 700px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+/* align-items: center; */
+}
+.container2-content1{
+    display: flex;
+    padding-left: 30px;
+    font-size: larger;
+    font-weight: 600;
+    text-decoration: dashed;
+}
+.container2-content2{
+    display: flex;
+  padding: none;
+    /* border: 2px solid red; */
+
+}
+.container2-image2{
+  /* border: 2px solid blue; */
+  position: relative;
+}
+.container2-content1{
+  display: flex;
+  padding-left: 30px;
+  font-size: larger;
+  font-weight: 650;
+  text-decoration: dashed;
+}

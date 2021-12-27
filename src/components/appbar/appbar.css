@@ -1,0 +1,60 @@
+.appbar1-container{
+    /* border: 5px solid hotpink; */
+    height: 15vh;
+    width: 100vw;
+    background-color: #155bd5;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    bottom: 630px;
+}
+.appbar-main{
+    /* border: 2px solid blue; */
+    display: flex;
+    align-items: center;
+    background-color: #155bd5;
+}
+.navbar-logo{
+    height: 60px;
+}
+.navbar-logo-container{
+    /* border: 2px solid red; */
+    width: 200px;
+    display: flex;
+    justify-content: flex-end;
+}
+.business1-container{
+    /* border: 2px solid red; */
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    height: 40px;
+    background-color: #155bd5;
+}
+.nav-button-container{
+    /* border: 2px solid red; */
+    width: 650px;
+   padding-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nav-button{
+    border: none;
+    font-size: large;
+    font-weight: 600;
+    color: whitesmoke;
+    height: 30px;
+    background-color: #155bd5;
+}
+.navbar-img{
+    height: 50px;
+    width: 50px;
+}
+.navbar-img-container{
+    /* border: 2px solid red; */
+    width: 350px;
+    display: flex;
+    justify-content: flex-end;
+}

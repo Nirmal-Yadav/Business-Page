@@ -1,0 +1,10 @@
+.MuiTab-iconWrapper{
+    height: 100px;
+}
+TabPanel{
+    border: 2px solid yellow;
+    font-size: 20px;
+    letter-spacing: 5px;
+    text-align: right;
+   word-spacing: 5px;
+}

@@ -1,0 +1,115 @@
+.container6{
+    /* border: 2px solid blue; */
+    background-color: #F7F7F7;
+    height: 120vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container6-main{
+    /* border: 2px solid skyblue; */
+    height: 800px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.container6-button1{
+    border: 2px solid #155bd5;
+    border-radius: 25px;
+    background-color: white;
+    color: #155bd5;
+    height: 40px;
+    width: 150px;
+    font-size: larger;
+    font-weight: 550;
+}
+.container6-content1{
+    /* border: 2px solid red; */
+    font-size: 35px;
+    font-weight: 700;
+}
+.container6-content2{
+    color:#716F81 ;
+    /* border: 2px solid red; */
+    width: 530px;
+}
+.container6-cards{
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+}
+.card6-main{
+/* border: 2px solid yellowgreen; */
+width: 460px;
+height: 500px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.container6-content3{
+    /* border: 2px solid red; */
+    width: 350px;
+    color:#716F81 ;
+}
+.container6-price{
+/* border: 2px solid black; */
+display: flex;
+}
+.container6-dollor{
+    /* border: 2px solid red; */
+    width: 17px;
+    height: 40px;
+    font-size: larger;
+}
+.container6-price-main{
+    /* border: 2px solid red; */
+    font-size: 40px;
+    /* width: 20px; */
+    font-weight: 600;
+}
+.container6-per{
+    /* border: 2px solid red; */
+    color:#716F81 ;
+    width: 30px;
+    display: flex;
+    align-items: flex-end;
+}
+.container6-button2{
+    border: 2px solid #155bd5;
+    border-radius: 5px;
+    background-color: white;
+    color: #155bd5;
+    height: 55px;
+    width: 190px;
+    font-size: larger;
+    font-weight: 550;   
+}
+.container6-lists{
+    /* border: 2px solid red; */
+    display: flex;
+  /* flex-direction: column; */
+    align-items: center;
+    padding: 10px;
+    height: 16px;
+}
+.container6-img1{
+    height: 20px;
+}
+.list1{
+    /* border: 2px solid yellow; */
+    width: 300px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left:20px ;
+   
+}
+.list-container{
+    width: 450px;
+}
